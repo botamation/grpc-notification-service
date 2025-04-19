@@ -10,6 +10,7 @@ message NotificationRequest {
   string userId = 1;
   string email = 2;
   string message = 3;
+  string subject = 4;
 }
 
 message NotificationResponse {
