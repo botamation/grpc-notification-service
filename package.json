@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "gRPC Notification microservices",
   "scripts": {
-    "start": "node notification-service/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "@grpc/grpc-js": "^1.8.0",
